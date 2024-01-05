@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning mobile app development using Flutter.
+💬 Contact with me via email at venh.ha@gmail.com.
 <!--
 **venhha/venhha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
